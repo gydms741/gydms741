@@ -1,4 +1,4 @@
-### Hi there, I'm Hyoeun 😄👍
+### Hi there, I'm Hyoeun 😄
 
 
 <!--
