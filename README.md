@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gydms741&show_icons=true&theme=tokyonight)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgydms741%2Fhit-counter&count_bg=%238E89E1&title_bg=%2336508A&icon=&icon_color=%23DFD6D6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
