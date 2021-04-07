@@ -1,5 +1,5 @@
 ### Hi there, I'm Hyoeun. 😄
-- I'm a Back-End developer based in the Republic of Korea. 🇰🇷 
+- I'm a developer based in the Republic of Korea. 🇰🇷 
 - I mainly use Java and Javascript, and I'm interested in new technology.
 
 <!--
