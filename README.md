@@ -1,7 +1,7 @@
 ### Hi there, I'm Hyoeun. 😄
 - I'm a developer based in the Republic of Korea. 🇰🇷 
 - I mainly use Java and Javascript, and I'm interested in new technology.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gydms741@gmail.com)](mailto:gydms741@gmail.com)
+- How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gydms741@gmail.com)](mailto:gydms741@gmail.com)
 <!--
 **gydms741/gydms741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
